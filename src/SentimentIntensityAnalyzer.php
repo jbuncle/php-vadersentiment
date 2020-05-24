@@ -1,6 +1,6 @@
 <?php
 
-require_once "sentitext.php";
+namespace VaderSentiment;
 
 //Constants
 

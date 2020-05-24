@@ -4,7 +4,9 @@
     "license": "MIT",
     "require": {},
     "autoload": {
-        "classmap": ["src/"]
+        "psr-4": {
+            "VaderSentiment\\": "src/"
+        }
     },
     "require-dev": {
         "phan/phan": "^3.0"

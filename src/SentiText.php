@@ -1,4 +1,7 @@
 <?php
+
+namespace VaderSentiment;
+
 /*
 		Identify sentiment-relevant string-level properties of input text.
 */

@@ -8,6 +8,8 @@ VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-ba
 ## Example code
 
 ```php
+use VaderSentiment\SentimentIntensityAnalyzer;
+
 require_once __DIR__ . "/vendor/autoload.php";
 
 $textToTest = "VADER is smart, handsome, and funny.";
