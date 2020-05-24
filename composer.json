@@ -6,5 +6,7 @@
     "autoload": {
         "classmap": ["src/"]
     },
-    "require-dev": {}
+    "require-dev": {
+        "phan/phan": "^3.0"
+    }
 }
