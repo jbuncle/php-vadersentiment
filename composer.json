@@ -1,0 +1,10 @@
+{
+    "name": "jbuncle/php-vadersentiment",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "require-dev": {}
+}
